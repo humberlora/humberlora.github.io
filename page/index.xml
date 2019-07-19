@@ -5,8 +5,8 @@
     <link>https://humberlora.github.io/page/</link>
     <description>Recent content in Pages on Humber Lora</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
-    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <managingEditor>maikl@humberlora.com (Rob Miles)</managingEditor>
+    <webMaster>maikl@humberlora.com (Rob Miles)</webMaster>
     
 	<atom:link href="https://humberlora.github.io/page/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
       <title>About HumberLora</title>
       <link>https://humberlora.github.io/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
+      <author>maikl@humberlora.com (Rob Miles)</author>
       <guid>https://humberlora.github.io/page/about/</guid>
       <description>HumberLora has been set up with the aim of creating a high quality LoRa network over the Humberside region that is free for everyone to use.</description>
     </item>
