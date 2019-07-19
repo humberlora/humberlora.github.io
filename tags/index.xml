@@ -5,30 +5,10 @@
     <link>https://humberlora.github.io/tags/</link>
     <description>Recent content in Tags on Humber Lora</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>maikl@humberlora.com (Rob Miles)</managingEditor>
-    <webMaster>maikl@humberlora.com (Rob Miles)</webMaster>
-    <lastBuildDate>Tue, 07 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <language>en-us</language>
     
 	<atom:link href="https://humberlora.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>bigimg</title>
-      <link>https://humberlora.github.io/tags/bigimg/</link>
-      <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
-      <author>maikl@humberlora.com (Rob Miles)</author>
-      <guid>https://humberlora.github.io/tags/bigimg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>example</title>
-      <link>https://humberlora.github.io/tags/example/</link>
-      <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
-      <author>maikl@humberlora.com (Rob Miles)</author>
-      <guid>https://humberlora.github.io/tags/example/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
